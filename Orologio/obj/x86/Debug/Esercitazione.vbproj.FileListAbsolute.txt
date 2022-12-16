@@ -1,0 +1,9 @@
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\bin\Debug\Esercitazione.exe
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\bin\Debug\Esercitazione.pdb
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\bin\Debug\Esercitazione.xml
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\obj\x86\Debug\Esercitazione.Form1.resources
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\obj\x86\Debug\Esercitazione.Resources.resources
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\obj\x86\Debug\Esercitazione.vbproj.GenerateResource.Cache
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\obj\x86\Debug\Esercitazione.exe
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\obj\x86\Debug\Esercitazione.xml
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Esercitazione\obj\x86\Debug\Esercitazione.pdb
